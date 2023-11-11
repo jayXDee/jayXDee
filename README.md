@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Deep Singh</h1>
-<h3 align="center">An aspiring Full stack Web developer and a Machine Learning enthusiast from Bhilai, C.G., India</h3>
+<h3 align="center">An aspiring Full-Stack Web developer and a Machine Learning enthusiast from Bhilai, C.G., India</h3>
 
-- 🔭 I’m currently working on **Dentist Management System**
+- 🔭 I’m currently working on **Data Structures and Algorithms**
 
 - 🌱 I’m currently learning **Flask/Django and Deep Learning**
 
