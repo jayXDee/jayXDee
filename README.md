@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **Flask/Django and Deep Learning**
 
 - 📫 How to reach me **jay.x.dee.5123@gmail.com**
 
