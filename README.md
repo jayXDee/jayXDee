@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jay Deep Singh</h1>
 <h3 align="center">Full-Stack Engineer & AI/ML Enthusiast | Data Science & AI @ IIIT Naya Raipur</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayxdee&label=Profile%20views&color=6366f1&style=flat" alt="jayxdee" />
-</p>
 
 ---
 
 - &nbsp;Previously **Software Engineering Intern @ IndMoney** — built Golang microservices for IPO infrastructure, integrated UPI payment flows, and shipped real-time monitoring dashboards
 - &nbsp;Previously **Data & AI Intern @ Indium Software** — deployed ML models with 90%+ accuracy for a Dutch oil company, engineered a full-stack data accessibility platform
-- &nbsp;Built an **Intelligent Content Management Platform** — headless CMS with GPT-4 integration, multi-tenant PostgreSQL, Redis caching, supporting 10,000+ concurrent requests
-- &nbsp;Built a **Reddit Analytics Dashboard** — real-time sentiment analysis on 50K+ daily interactions using BERT with 85% accuracy
+
 - &nbsp;Currently deepening expertise in **Distributed Systems, System Design & Advanced DSA**
-- &nbsp;Also enhancing current knowledge in building RAG systems and SLMs**
+- &nbsp;Also enhancing current knowledge in building **RAG systems and SLMs**
 - &nbsp;Reach me at **jay.x.dee.5123@gmail.com**
 - &nbsp;[LinkedIn](https://www.linkedin.com/in/jay-deep-singh) &nbsp;|&nbsp; [GitHub](https://github.com/jayXDee)
 
